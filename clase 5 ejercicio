@@ -1,0 +1,4 @@
+tarea simple: Registrarse //draw.io es util 👀
+
+perspectiva del usuario: ingresar a la pagina -> Darle al boton de registrar -> Crear sus credenciales -> Reenviar a pagina principal o confirmar que no es un bot a traves del correo -> Iniciar sesion
+posibles mejoras: Iniciar sesion automaticamente al confirmar correo o al reenviar poder iniciar sesion para ver si el usuario recuerda su contraseña o la escribio mal
