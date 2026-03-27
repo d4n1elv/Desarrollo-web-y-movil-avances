@@ -1,0 +1,29 @@
+1. Selección y observación de una interfaz web existente
+Sitio web a analizar: sitio oficial de la Universidad de las Americas https://www.udla.cl/
+Este sitio web es un centro de noticias relacionadas a la Universidad y una forma de ingresar a hacer ciertos tramites de ambito estudiantil.
+
+2. Identificación práctica de componentes UI
+Header: contiene 2 headers, uno enfocado mas en el estudiante universitario y el otro enfocado en alguien que quiera informarse sobre la institucion, ya sea egresado o apoderado.
+(tambien otra que incluye botones de uso universitario y de egresados que quieran meterse a esta U)
+Menu o navegacion: no hay boton de busqueda, pero los botones que abren los menues en el header, permiten encontrar facilmente lo que un egresado quiere buscar (y en caso de estudiante, el header de mas arriba sirve)
+Area principal de contenido: noticias y "puntos buenos" que tiene la universidad, a traves de hitos logrados por egresados y noticias mas generales de "logros" que ha tenido la universidad (tambien cifras que demuestran que es "buena")
+Botones: llevan a diferentes funciones que hace la universidad, en un rango de entre, utilidades para egresados e informacion, a funciones como un "portal" para los estudiantes de la UDLA
+formulario: no se si cuenta xd pero para meterse a la universidad hay que hacer el proceso de postular y todo eso, tambien el login de estudiantes de la U
+footer: informacion variada de contacto y ubicacion de sedes, para informar al estudiante o egresado, tambien con mas botones repetidos y todo achoclonado en un solo lugar dx
+
+3. Análisis de jerarquía visual
+Al meterse a la pagina, lo primero que te llama la atencion es la seccion de noticias, que es algo gigante que te sale al solo entrar a la pagina, luego lo secundario es pillar el header lleno de informacion que te da accesos directos a 
+informacion importante si quieres meterte a estudiar o cosas mas generales para un estudiante
+JUSTIFICaCION: la seccion de noticias esta lleno de "sabes que?" y cosas por el estilo, lo que te fuerza a leer :v
+La prioridad de accion depende de si eres egresado o estudiante, esto define que eliges en general al seleccionar cosas del header
+
+4. Identificación de aciertos y problemas de UI
+malo: el header tiene demasiados botones, con 2 secciones, genera que tape mucha pantalla, algo que deberia ser pequeño en comparacion al tamaño de la pagina (o pantalla) (incluso en 1080p se reduce bastante el espacio, eso cuenta como estandar hoy en dia?)
+el footer tiene algunos botones repetidos que ya estan en el header, cosa inncesesaria debido a que el header siempre esta en la pantalla
+luego de la seccion de noticias, la pagina entera tiene 2 franjas blancas a los costados, generando una vision de telefono en computador (medianamente molesto, se puede aprovechar mejor el espacio, cosa que dudo que hagan xd)
+
+bueno: el header al tener TANTA funcion para hacer cosas, sirve para egresado y estudiante, se puede mejorar pero funciona bien 
+colocar noticias y logros al principio logra atraer la atencion del lector, generando que se vea convencido de meterse a la U (en caso de ser egresado)
+en la parte de noticias, hay una seccion de "eventos", no se si son para estudiantes o egresados interesados, pero igualmente, cumple con generar interes en la U
+
+5. Definición de un caso de diseño propio
