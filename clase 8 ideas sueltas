@@ -27,3 +27,24 @@ colocar noticias y logros al principio logra atraer la atencion del lector, gene
 en la parte de noticias, hay una seccion de "eventos", no se si son para estudiantes o egresados interesados, pero igualmente, cumple con generar interes en la U
 
 5. Definición de un caso de diseño propio
+Consulta de información académica.
+Resolver temas académicos/financieros relacionados a la Universidad
+Estudiante universitario 
+Ver notas y revisar estado de suspensión
+
+6. Diseño conceptual de la interfaz UI
+Un ->
+header con logo de la institucion - botones e informacion para egresados - boton de LogIn para estudiantes
+contenido con eventos y noticias relacionadas a la institucion
+formulario para estudiantes o egresados con interes en la institucion
+botones PARA TODO MUAHAJHAJA
+
+7. Aplicación de principios de diseño UI
+La consistencia se logra al usar elementos y colores similares
+Simpleza y claridad, se logra al separar la pagina en 2 tipos, egresado / estudiante, modificando las funciones para acomodar a cada 1
+feedback visual, cosas como "login exitoso" o "espere un momento" al cargar la pagina ayuda mucho a no pensar en "se me colgo la pc..."
+Orden y alineación, parte de consistencia, usar elementos similares para que no sea incomoda o molesta ver la pagina
+
+8. Reflexión final
+*PEGAR DIRECTO AL INFORME*
+Luego de haber analizado una pagina institucional y haber creado un boceto original, se puede llegar a la conclusion de que el UI es demasiado importante en el momento de hacer publica tu herramienta, ya que un programa puede estar bien hecho, pero si la interfaz no se ve atractiva a simple vista o es muy desordenada con sus elementos, llega a generar una mala experiencia para el usuario que requiera hacer el uso de esta, ya que si el usuario se siente demasiado abrumado o molesto por el diseño visual que tiene su proyecto, este simplemente decidirá irse a buscar otra herramienta que pueda cumplir su petición de mejor manera que la usada recientemente. Ya que es posible abrumar al usuario con muchas opciones y botones, pensar en como se diseñará la interfaz antes de hacer toda la lógica que mantiene viva la herramienta es fundamental para que tu programa sea usado de manera correcta.
